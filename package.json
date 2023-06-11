@@ -6,6 +6,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@types/styled-components": "^5.1.26",
     "acorn": "^8.8.2",
     "acorn-import-assertions": "^1.8.0",
     "ajv": "^8.12.0",
@@ -91,6 +92,7 @@
     "serialize-javascript": "^6.0.1",
     "source-map": "^0.6.1",
     "source-map-support": "^0.5.21",
+    "styled-components": "^6.0.0-rc.3",
     "supports-color": "^5.5.0",
     "supports-preserve-symlinks-flag": "^1.0.0",
     "tapable": "^2.2.1",
